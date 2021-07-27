@@ -1,1 +1,2 @@
-This is the initial commit on story1.
+This is the initial commit on story-1
+After branching, exprimentation on side-branch1 starts.
